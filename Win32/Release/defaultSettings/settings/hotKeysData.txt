@@ -1,0 +1,147 @@
+﻿5
+29
+Function
+Play, pause, resume
+Previous song
+Next song
+Focus playing song
+Listenings window
+Shuffle
+Count us
+Mute/Unmute
+Volume down 20%
+Volume up 20%
+Find twins
+Delete bad songs
+Settings
+Open file location (of selected song)
+Quick search
+Previous match (Quick search F3)
+Next match (Quick search F3)
+Hide / Show SCounter
+Terminating Song
+Create new playlist
+Previous playlist page
+Next playlist page
+   FILTERS
+[All]
+[= 0]
+[≤ 5]
+[15 - 30]
+[≥ 25]
+Key 1
+Space
+F5
+F6
+MouseWheel
+C
+S
+U
+M
+-
+=
+Ctrl + F
+Ctrl + D
+Ctrl + S
+O
+F3
+F1
+F2
+Esc
+T
+Shift + N
+Left
+Right
+
+1
+2
+3
+4
+5
+Key 2
+
+
+
+F
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Global key 1
+Play Media
+Previous Media
+Next Media
+
+
+Ctrl + Shift + F
+
+
+
+
+
+
+
+
+
+
+
+Ctrl + Shift + Space
+Alt + Shift + Y
+
+
+
+
+
+
+
+
+
+Global key 2
+
+Shift + F1
+Shift + F2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

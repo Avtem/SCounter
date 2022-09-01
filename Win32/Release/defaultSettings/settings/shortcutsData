@@ -1,0 +1,342 @@
+﻿32
+1
+1
+0
+0
+0
+0
+Play, pause, resume
+Space
+116
+1
+2
+0
+0
+0
+0
+Previous song
+F5
+117
+1
+3
+0
+0
+0
+0
+Next song
+F6
+70
+2
+4
+0
+0
+0
+0
+Focus playing song
+F
+67
+1
+5
+0
+0
+0
+0
+Listenings window
+C
+83
+1
+6
+0
+0
+0
+0
+Shuffle
+S
+85
+1
+7
+0
+0
+0
+0
+Count us
+U
+77
+1
+8
+0
+0
+0
+0
+Mute/Unmute
+M
+189
+1
+9
+0
+0
+0
+0
+Volume down 20%
+-
+187
+1
+10
+0
+0
+0
+0
+Volume up 20%
+=
+70
+1
+11
+0
+1
+0
+0
+Find twins
+Ctrl + F
+68
+1
+12
+0
+1
+0
+0
+Delete bad songs
+Ctrl + D
+83
+1
+13
+0
+1
+0
+0
+Settings
+Ctrl + S
+79
+1
+14
+0
+0
+0
+0
+Open file location (of selected song)
+O
+84
+1
+19
+0
+0
+0
+0
+Terminating Song
+T
+78
+1
+20
+1
+0
+0
+0
+Create new playlist
+Shift + N
+37
+1
+21
+0
+0
+0
+0
+Previous playlist page
+Left
+39
+1
+22
+0
+0
+0
+0
+Next playlist page
+Right
+49
+1
+24
+0
+0
+0
+0
+[All]
+1
+50
+1
+25
+0
+0
+0
+0
+[= 0]
+2
+51
+1
+26
+0
+0
+0
+0
+[≤ 5]
+3
+52
+1
+27
+0
+0
+0
+0
+[15 - 30]
+4
+53
+1
+28
+0
+0
+0
+0
+[≥ 25]
+5
+32
+3
+18
+1
+1
+0
+1
+Hide / Show SCounter
+Ctrl + Shift + Space
+179
+3
+1
+0
+0
+0
+1
+Play, pause, resume
+Play Media
+177
+3
+2
+0
+0
+0
+1
+Previous song
+Previous Media
+176
+3
+3
+0
+0
+0
+1
+Next song
+Next Media
+46
+0
+0
+0
+0
+0
+0
+Delete selected songs
+Delete
+13
+0
+0
+0
+0
+0
+0
+Play selected song
+Enter
+89
+3
+19
+1
+0
+1
+1
+Terminating Song
+Alt + Shift + Y
+70
+3
+6
+1
+1
+0
+1
+Shuffle
+Ctrl + Shift + F
+0
+2
+5
+0
+0
+0
+0
+Listenings window
+B
+0
+3
+12
+0
+0
+0
+1
+Delete bad songs
+D
+0
+2
+25
+0
+0
+0
+0
+[≤ 3]
+2
+0
+2
+26
+0
+0
+0
+0
+[≤ 5]
+D
+0
+3
+24
+0
+0
+0
+1
+[All]
+Z
+112
+4
+2
+1
+0
+0
+1
+Previous song
+Shift + F1
+113
+4
+3
+1
+0
+0
+1
+Next song
+Shift + F2
